@@ -857,3 +857,7 @@ details :focus {
 h3.with-deets {
   margin-bottom: 0rem;
 }
+
+h3.red {
+  color: red;
+}
