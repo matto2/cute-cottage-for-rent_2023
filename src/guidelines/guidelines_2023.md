@@ -31,7 +31,7 @@ _In no particular order:_
 * If you have huge or many boxes (from furniture, appliances etc.) that would instantly fill the recycling bin please make other arrangements (bring to dump or gray bears, etc).
 * [Recycling guide](https://www.cityofsantacruz.com/government/city-departments/public-works/resource-recovery-garbage-recycling-sweeping/recycling-and-waste-reduction/recycling-guide)
 * Only put toilet paper in toilet- no other stuff.
-* I'll always call / knock or otherwise get permission before entering front of back houses. But may visit middle house/back tool shed without notice.
+* I'll always call / knock or otherwise get permission before entering front or back houses. But may visit middle house/back tool shed without notice.
 * Let me know asap if anything in house needs attention, questions, emergencies, etc... 
 * Fire extinguisher is under the sink
 * Major water leaks—->Water turn off in front of the house - under faucet - very close to the ground. 
