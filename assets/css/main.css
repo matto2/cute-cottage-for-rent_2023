@@ -641,7 +641,7 @@ dd {
   font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, Helvetica, Arial, sans-serif;
   font-size: 1rem;
   text-transform: none;
-  padding: .75rem 1.25rem;
+  padding: .75rem 3rem;
   margin: 0 1rem .5rem 0;
   vertical-align: middle;
   text-align: center;
@@ -860,4 +860,10 @@ h3.with-deets {
 
 h3.red {
   color: red;
+}
+
+footer {
+  margin-top: 2rem;
+  text-align: center;
+  margin-bottom: 2rem;
 }
